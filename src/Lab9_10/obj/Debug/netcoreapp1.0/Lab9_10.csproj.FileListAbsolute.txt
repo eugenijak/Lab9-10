@@ -1,0 +1,9 @@
+C:\Users\dinan\Desktop\Lab9_10\src\Lab9_10\bin\Debug\netcoreapp1.0\Lab9_10.deps.json
+C:\Users\dinan\Desktop\Lab9_10\src\Lab9_10\bin\Debug\netcoreapp1.0\Lab9_10.runtimeconfig.json
+C:\Users\dinan\Desktop\Lab9_10\src\Lab9_10\bin\Debug\netcoreapp1.0\Lab9_10.runtimeconfig.dev.json
+C:\Users\dinan\Desktop\Lab9_10\src\Lab9_10\bin\Debug\netcoreapp1.0\Lab9_10.dll
+C:\Users\dinan\Desktop\Lab9_10\src\Lab9_10\bin\Debug\netcoreapp1.0\Lab9_10.pdb
+C:\Users\dinan\Desktop\Lab9_10\src\Lab9_10\obj\Debug\netcoreapp1.0\Lab9_10.csprojResolveAssemblyReference.cache
+C:\Users\dinan\Desktop\Lab9_10\src\Lab9_10\obj\Debug\netcoreapp1.0\Lab9_10.AssemblyInfo.cs
+C:\Users\dinan\Desktop\Lab9_10\src\Lab9_10\obj\Debug\netcoreapp1.0\Lab9_10.dll
+C:\Users\dinan\Desktop\Lab9_10\src\Lab9_10\obj\Debug\netcoreapp1.0\Lab9_10.pdb

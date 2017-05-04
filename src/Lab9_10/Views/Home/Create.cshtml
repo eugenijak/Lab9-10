@@ -1,0 +1,21 @@
+﻿@model Lab9_10.Models.Human
+@{
+    ViewBag.Title = "add human info";
+}
+
+
+
+<form asp-action="create" asp-controller="home">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label">Имя</label>
+        <input type="text" asp-for="Name" class="form-control" />
+        <span class="text-danger">@Html.ValidationMessageFor(model => model.Name)</span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Phone" class="control-label">Мобильный телефон</label>
+        <input type="number" asp-for="Phone" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Send" class="btn btn-default" />
+    </div>
+</form>
